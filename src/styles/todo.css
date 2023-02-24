@@ -1,0 +1,71 @@
+.header{
+    background-image: linear-gradient(to right, rgb(213, 169, 169) , rgb(255, 252, 252));
+    height: 80px;
+    position: sticky;
+    top: 1px;
+    z-index: 1;
+}
+
+.inputT{
+    margin-top: 90px;
+    margin-left: 50px;
+    width: 40%;
+}
+
+.textarea{
+    margin: 3%;
+}
+
+.todiv{
+    font-size: large;
+   font-weight:500;
+   margin-left: 50px;
+    padding-left: 100px;
+   padding-right: 50px;
+   padding: 8px;
+   background-image: linear-gradient(to right, rgb(213, 169, 169) , rgb(255, 252, 252));
+   align-items: center;
+    color: rgb(156, 127, 127);
+   border-color: rgb(255, 254, 253); 
+}
+
+ .logb{
+ margin-left: 80%;
+ padding: 15px;
+ border: none;
+ border-radius: 6px;
+ color: rgb(156, 127, 127);
+ font-size: larger;
+ background-image: linear-gradient(to right, rgb(213, 169, 169) , rgb(255, 252, 252));
+ 
+ }
+
+ .head{
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 20px;
+    color: rgb(156, 127, 127);
+
+ }
+  .card{
+margin-top: 50px;
+margin-left: 40px;
+margin-right: 60px;
+  }
+   
+  .card-title{
+  
+    color: rgb(156, 127, 127);
+  }
+ .card-text{
+    color: rgb(135, 127, 127);
+ }
+ .card-btn{
+    font-size: large;
+    font-weight:500; 
+    padding: 10px;
+    align-items: center;
+     color: rgb(156, 127, 127);
+    border-color: rgb(255, 254, 253); 
+    
+ }

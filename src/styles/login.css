@@ -1,0 +1,73 @@
+/* body{
+    background-image: linear-gradient(to right, rgb(169, 229, 244) , rgb(247, 247, 247));
+} */
+
+.cardstyle{
+    width: 28%;
+    background: #fff;
+   margin-top: 90px;  
+
+}
+
+.logcenter{
+    justify-content: center;
+     
+    display: flex;
+
+}
+
+.labelstyle{
+      font-size: small;
+      font-weight: 700;
+}
+/* .inputstyle{
+    justify-content: center;
+    align-items: center;
+    margin-right: 50px;
+} */
+
+.card-text{
+    font-size:15px;
+    font-weight: 600;
+    color: rgb(6, 6, 6);
+}
+
+.linkstyle{
+    /* color: blue; */
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.inputmargin{
+    margin-right: 10px;
+}
+
+.logdiv{
+   
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+     
+    
+}
+
+.logbtn{
+     font-size: small;
+    font-weight:500;
+    margin-left: 2px;
+     padding-left: 100px;
+    padding-right: 50px;
+    padding: 8px;
+    background-color: rgb(247, 248, 248);
+    align-items: center;
+     
+    border-color: rgb(250, 249, 249); 
+}
+
+.cartbtn{
+    background-image: linear-gradient(to right, rgb(213, 169, 169) , rgb(255, 252, 252));
+    padding: 8px;
+   border: none;
+}
